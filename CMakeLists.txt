@@ -20,7 +20,7 @@ set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
 include(CPack)
 
 
-add_executable(DCTBM main.cpp inc/MultiCardCPP.h)
+add_executable(DCTBM ./src/main.cpp inc/MultiCardCPP.h)
 
 
 target_include_directories(${PROJECT_NAME}  PRIVATE include/)

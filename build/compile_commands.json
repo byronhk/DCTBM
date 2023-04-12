@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/byron/DCTBM/build",
-  "command": "/usr/bin/g++   -I../inc -I../include  -g   -o CMakeFiles/DCTBM.dir/main.cpp.o -c /home/byron/DCTBM/main.cpp",
-  "file": "/home/byron/DCTBM/main.cpp"
-}
-]

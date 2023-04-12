@@ -9,7 +9,7 @@ MultiCard MultiCard1;
 TAllSysStatusData TAllSysStatusDataTemp;
 
 int main(int, char**) {
-
+//meiyong
     int iRes = 1;
 
     iRes = MultiCard1.MC_Open(1,"192.168.0.200",60001,"192.168.0.1",60001);
